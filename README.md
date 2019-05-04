@@ -15,3 +15,5 @@ Na primeira coluna da tabela estão descritos os valores possíveis para o peso 
 
 ## 2. Implementação e Testes
 
+
+![image](https://user-images.githubusercontent.com/42296433/57184383-29ac9400-6e91-11e9-93b1-b03649e0dd89.png)
