@@ -19,6 +19,7 @@ Na primeira coluna da tabela estão descritos os valores possíveis para o peso 
 ![image](https://user-images.githubusercontent.com/42296433/57185227-ed336500-6e9d-11e9-914f-aaac8ab5e3d3.png)
 
 ![image](https://user-images.githubusercontent.com/42296433/57184383-29ac9400-6e91-11e9-93b1-b03649e0dd89.png)
+Figura 1
 
 A Figura 1 ilustra os valores numéricos possíveis para a Peso, considerando as variáveis lingüísticas definidas na Tabela 1 e no template respectivo.
 
@@ -28,5 +29,6 @@ As regras que definirão a Altura, foi utilizado duas funções pré-definidas (
 ![image](https://user-images.githubusercontent.com/42296433/57185290-e3f6c800-6e9e-11e9-912b-4c98f5bbbeb6.png)
 
 ![image](https://user-images.githubusercontent.com/42296433/57185301-17d1ed80-6e9f-11e9-8df3-69b62742fcd7.png)
+Figura 2
 
 A Figura 2 ilustra os valores numéricos possíveis para a Altura.
