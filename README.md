@@ -32,3 +32,7 @@ As regras que definirão a Altura, foi utilizado duas funções pré-definidas (
 Figura 2
 
 A Figura 2 ilustra os valores numéricos possíveis para a Altura.
+
+Para a defuzzificação, foi criada uma variável global. A regra defuzifica foi declarada com salience 0 de forma a ser executada posteriormente às demais regras do sistema.
+
+![image](https://user-images.githubusercontent.com/42296433/57185389-d17d8e00-6ea0-11e9-91da-dfeaeed20106.png)
