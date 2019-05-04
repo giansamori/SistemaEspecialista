@@ -36,3 +36,10 @@ A Figura 2 ilustra os valores numéricos possíveis para a Altura.
 Para a defuzzificação, foi criada uma variável global. A regra defuzifica foi declarada com salience 0 de forma a ser executada posteriormente às demais regras do sistema.
 
 ![image](https://user-images.githubusercontent.com/42296433/57185389-d17d8e00-6ea0-11e9-91da-dfeaeed20106.png)
+
+Foram gerados valores através do deffacts, no sentido de testar as regras e obter os valores numéricos relacionados aos resultados. O código-fonte abaixo ilustra a utilização de valores para a Peso e Altura.
+
+
+## Conclusão 
+
+Conclui-se que tendo as variaveis de peso e altura conseguimos chegar no IMC que é o indice de massa corporal. Colocamos as variaveis no deftemplate para o programa CLIPS fazer os gráficos com a linguagem Fuzzy.
