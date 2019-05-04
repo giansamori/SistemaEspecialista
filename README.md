@@ -18,3 +18,5 @@ Na primeira coluna da tabela estão descritos os valores possíveis para o peso 
 
 
 ![image](https://user-images.githubusercontent.com/42296433/57184383-29ac9400-6e91-11e9-93b1-b03649e0dd89.png)
+
+A Figura 1 ilustra os valores numéricos possíveis para a Peso, considerando as variáveis lingüísticas definidas na Tabela 1 e no template respectivo.
