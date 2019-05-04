@@ -40,6 +40,6 @@ Para a defuzzificação, foi criada uma variável global. A regra defuzifica foi
 Foram gerados valores através do deffacts, no sentido de testar as regras e obter os valores numéricos relacionados aos resultados. O código-fonte abaixo ilustra a utilização de valores para a Peso e Altura.
 
 
-## Conclusão 
+## 3. Conclusão 
 
 Conclui-se que tendo as variaveis de peso e altura conseguimos chegar no IMC que é o indice de massa corporal. Colocamos as variaveis no deftemplate para o programa CLIPS fazer os gráficos com a linguagem Fuzzy.
