@@ -7,7 +7,7 @@ Giancarlo Samori
 ## 1. Introdução
 
 Neste relatório será detalhada a implementação de um Sistema Especialista Fuzzy utilizando a ferramenta FuzzyClips. A finalidade do sistema é saber qual o nível de sua massa corporal, considerando como variáveis auxiliares o peso e altura.
-As variáveis lingüísticas de entrada e saída são mostradas na Tabela 1:
+As variáveis linguísticas de entrada e saída são mostradas na Tabela 1:
 
 Colocar a tabela 1
 
